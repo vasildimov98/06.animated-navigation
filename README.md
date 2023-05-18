@@ -1,2 +1,2 @@
-# 06.animated-navigation
-I have created a Javascript project - navigation with animation 
+# 06.animated-template
+I have taken template and added animation to it
